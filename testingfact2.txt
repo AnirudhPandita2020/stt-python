@@ -1,0 +1,19 @@
+new function factorial
+argument number
+if number equal to zero
+return 1
+otherwise
+return number
+operator multiply
+call function factorial
+pass function argument number -1
+line number 7
+end of line
+remove
+backspace
+print function factorial
+argument 7
+create empty list
+create empty list
+start
+pause
